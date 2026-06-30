@@ -1,0 +1,6 @@
+This is a random PR created to test repository webhooks.
+
+- Created by GitHub Copilot (assistant) for webhook testing.
+- Date: 2026-06-30
+
+If you see this file in a branch, you can open a PR from that branch to trigger your webhook.
